@@ -6,7 +6,7 @@
 
 # 使用方法
   props : leftWidth (左侧占百分比) 右侧根据左侧自适应宽度
-
+```javascript
   <freeDrag>
   <div slot="drag-left">
     <!-- 自定义部分 -->
@@ -15,3 +15,4 @@
   <!-- 自定义部分 -->
   </div>
 </freeDrag>
+```
